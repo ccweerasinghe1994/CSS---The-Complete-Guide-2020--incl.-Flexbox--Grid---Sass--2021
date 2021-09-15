@@ -1,0 +1,20 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+}
+
+#product-overview {
+  background: red;
+}
+
+#product-overview h1 {
+  color: white;
+  font-family: "Glory", sans-serif;
+}
+
+.section-title {
+  color: rgb(12, 206, 22);
+}
+
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
